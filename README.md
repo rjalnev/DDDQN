@@ -21,7 +21,7 @@ There are various lines of codes that shows examples on how to create agent, tra
 Models for the various checkpoints shown below are provided in the models directory.
 
 # Work In Progress
-Currently the implentation works well in tests but yyperparameters have not been tuned.
+Currently the implentation works well in tests but hyperparameters have not been tuned.
 
 ## Lunar Lander
 Ran three times for 4,000 epsiodes for 32, 64, and 128 batch sizes.
